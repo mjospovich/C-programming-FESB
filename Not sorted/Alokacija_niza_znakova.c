@@ -1,4 +1,3 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -45,3 +44,9 @@ int main()
     system("pause");
     return 0;
 }
+
+
+/*
+Dinamički alocirati niz znakova (prethodno pitati korisnika) te provjeriti koji
+znakovi su na parnim adresnim mjestima, prebrojit ih te ispisat koji su!
+*/

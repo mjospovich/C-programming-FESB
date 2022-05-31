@@ -1,4 +1,3 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 
 
@@ -64,3 +63,11 @@ int main() {
     
     return 0;
 }
+
+
+/*
+Napraviti matricu znakova (max 5x5), pitati korisnika za veličinu redaka i stupaca,
+obaviti upis, a zatim ispisati samo glavnu i sporednu dijagonalu.
+Napraviti funkciju koja prebrojava broj samoglasnika posebno na glavnoj, 
+posebno na sporednoj dijagonali te razultate ispisati u glavnoj funkciji.
+*/
