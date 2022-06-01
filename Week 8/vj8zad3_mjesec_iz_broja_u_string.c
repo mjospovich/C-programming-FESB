@@ -1,6 +1,5 @@
 #include <stdio.h>
 
-//tribalo bi dodat ogranicenja ili da javlja gresku ako je broj mjeseca veci od 12 npr
 
 char *fun(int m){
     char *mjSlova[]={"sijecanj", "veljaca", "ozujak", "travanj", "svibanj", "lipanj", "srpanj", "kolovoz", "rujan", "listopad", "studeni", "prosinac"};
@@ -9,13 +8,22 @@ char *fun(int m){
 
 int main() {
     int dan, mj, god;
-    printf("unesi datum (dan): ");
-    scanf("%d", &dan);
-    printf("unesi datum (mjesec): ");
-    scanf("%d", &mj);
-    printf("unesi datum (godina): ");
-    scanf("%d", &god);    
-    
+
+    do{
+        printf("unesi datum (dan): ");
+        scanf("%d", &dan);
+    }while(dan < 0 || dan > 31);
+
+    do {
+        printf("unesi datum (mjesec): ");
+        scanf("%d", &mj);
+    }while(mj < 0 || mj > 12);
+
+    do{
+        printf("unesi datum (godina): ");
+        scanf("%d", &god);    
+    }while(god < 0);
+
     printf("Datum je %d.%d.%d. \n", dan, mj, god);
     printf("Datum je %d. %s %d. \n", dan, fun(mj), god);
     return 0;
