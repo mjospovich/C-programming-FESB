@@ -17,10 +17,12 @@ void upis(int br_clan, _student* studenti)
 
   for(i = 0; i<br_clan; i++)
   {
+    fflush(stdin);
+
     printf("\nUnosite podatke za studenta broj %d\n", i+1);
 
     printf("Unesite ime (i prezime) studenta: ");
-    scanf("%s",studenti[i].ime_prez);
+    scanf("%[^\n]s", studenti[i].ime_prez);
 
     printf("\nUnesite maticni broj studenta: ");
     scanf("%d", &studenti[i].mat_br);
@@ -67,3 +69,11 @@ int main(void)
 
   system("pause");
 }
+
+
+
+
+/*
+To je sve prakticki isti zadatak samo sta u ovome triba dinamicki alocirati
+jedinke strukture student.
+*/
