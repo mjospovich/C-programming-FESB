@@ -3,13 +3,16 @@
 
 void upis(int**, int);
 void ispis(int**, int);
-void sorter(int**, int);
+void sorter(int**, int, int(*Fun)(int, int));
+int vece(int, int);
+int manje(int, int);
 
 
 int main(void)
 {
   int i, j, n;
   int **mat;
+  char op;
 
   printf("Upisite velicinu vase kvadratne matrice: ");
   scanf("%d", &n);
@@ -27,12 +30,20 @@ int main(void)
   ispis(mat, n);
 
   //sortiranje matrice
-  system("pause");
-  sorter(mat, n);
+  fflush(stdin);
+  printf("\nZelite li sort < ili >?\n");
+  scanf("%c", &op);
+
+  if (op == '>')
+    sorter(mat, n, vece);
+  else
+    sorter(mat, n, manje);
+  
   ispis(mat, n);
 
   system("pause");
 }
+
 
 
 
@@ -84,7 +95,8 @@ void ispis(int **matrix, int numRows)
 }
 
 
-void sorter(int **matrix, int numRows)
+
+void sorter(int **matrix, int numRows, int(*Fun)(int, int))
 {
   int temp = 0;
   int flag = 0;
@@ -97,26 +109,26 @@ void sorter(int **matrix, int numRows)
     while (1)
     {
       
-      if (j == numRows)
+      for(j = 0; j<numRows-1; j++)
       {
-        j = 0;
-        flag = 0;
+        if (Fun(matrix[i][j+1], matrix[i][j]))
+        {
+          temp = matrix[i][j];
+          matrix[i][j] = matrix[i][j+1];
+          matrix[i][j+1] = temp;
+
+          flag = 1;
+          temp = 0;
+        }
+
+        else
+          continue;
       }
 
-      if (matrix[i][j+1] <= matrix[i][j])
-      {
-        temp = matrix[i][j];
-        matrix[i][j] = matrix[i][j+1];
-        matrix[i][j+1] = temp;
-
-        flag = 1;
-        temp = 0;
-      }
-
-      j++;
-
-      if(flag == 0 && j == numRows-1)
+      if(flag == 0)
         break;
+
+      flag = 0;
       
     }
   }
@@ -124,6 +136,15 @@ void sorter(int **matrix, int numRows)
 }
 
 
+int manje(int a, int b)
+{
+  return a < b;
+}
+
+int vece(int a, int b)
+{
+  return a > b;
+}
 
 
 /*
