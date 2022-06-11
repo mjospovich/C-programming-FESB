@@ -1,0 +1,915 @@
+141
+Amizic Domina	2135	5
+Fizika 1;	4
+Matematika 1;	2
+Uvod u racunala i programiranje;	3
+Fizika 2;	2
+Matematika 2;	5
+Andelic Stella	4294	2
+Engleski jezik 1;	5
+Matematika 2;	2
+Antolovic Filip	3724	5
+Elektrotehnika;	3
+Fizika 1;	2
+Uvod u racunala i programiranje;	4
+Elektronika;	5
+Programiranje;	4
+Bakulic Fabjan	9344	6
+Elektrotehnika;	4
+Matematika 1;	4
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	2
+Elektronika;	2
+Fizika 2;	4
+Bakusic Ivan	7015	7
+Elektrotehnika;	5
+Fizika 1;	4
+Matematika 1;	2
+Engleski jezik 1;	3
+Elektronika;	3
+Programiranje;	2
+Engleski jezik 2;	5
+Balic Marko	6105	1
+Fizika 1;	2
+Banek Lucija	9327	7
+Elektrotehnika;	5
+Matematika 1;	4
+Uvod u racunala i programiranje;	3
+Elektronika;	3
+Fizika 2;	5
+Matematika 2;	4
+Engleski jezik 2;	3
+Baric Noa	5697	9
+Elektrotehnika;	5
+Fizika 1;	2
+Matematika 1;	3
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	4
+Fizika 2;	5
+Matematika 2;	3
+Programiranje;	4
+Engleski jezik 2;	4
+Baric Zvonimir	8034	6
+Elektrotehnika;	4
+Fizika 1;	5
+Matematika 1;	3
+Engleski jezik 1;	2
+Fizika 2;	2
+Matematika 2;	4
+Barisic Sime	8288	3
+Elektrotehnika;	2
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	2
+Batinic Stipan	6499	6
+Elektrotehnika;	4
+Fizika 1;	2
+Matematika 1;	3
+Uvod u racunala i programiranje;	4
+Elektronika;	5
+Fizika 2;	2
+Bikic Marija	6350	4
+Fizika 1;	2
+Matematika 1;	5
+Uvod u racunala i programiranje;	4
+Elektronika;	2
+Bilic Andela	9115	4
+Uvod u racunala i programiranje;	3
+Elektronika;	2
+Matematika 2;	3
+Programiranje;	4
+Biuk Luka	8344	6
+Elektrotehnika;	4
+Fizika 1;	5
+Matematika 1;	5
+Engleski jezik 1;	5
+Elektronika;	2
+Matematika 2;	4
+Blazevic Duje	1116	6
+Fizika 1;	3
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	2
+Fizika 2;	5
+Programiranje;	3
+Engleski jezik 2;	3
+Bodrozic Anton	3078	4
+Matematika 1;	2
+Fizika 2;	3
+Matematika 2;	3
+Engleski jezik 2;	2
+Bota Tomislav	9473	2
+Matematika 1;	4
+Fizika 2;	5
+Bralic Ivan	1422	2
+Fizika 1;	4
+Elektronika;	5
+Bratic Lea	9926	5
+Elektrotehnika;	2
+Engleski jezik 1;	2
+Fizika 2;	2
+Matematika 2;	5
+Engleski jezik 2;	2
+Bratic Tomislav	9845	2
+Elektrotehnika;	4
+Engleski jezik 1;	4
+Budisa Ivana	9831	4
+Matematika 1;	5
+Engleski jezik 1;	5
+Fizika 2;	3
+Matematika 2;	3
+Bujevic Aldo	6765	3
+Uvod u racunala i programiranje;	3
+Programiranje;	3
+Engleski jezik 2;	4
+Busic Ivan	1053	9
+Elektrotehnika;	4
+Fizika 1;	3
+Matematika 1;	3
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	4
+Fizika 2;	2
+Matematika 2;	4
+Programiranje;	5
+Engleski jezik 2;	3
+Crnogorac Luka	5694	9
+Elektrotehnika;	4
+Fizika 1;	3
+Matematika 1;	4
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	4
+Elektronika;	3
+Fizika 2;	4
+Programiranje;	4
+Engleski jezik 2;	5
+Cajic Tomislav	9760	4
+Fizika 1;	4
+Elektronika;	3
+Matematika 2;	3
+Engleski jezik 2;	5
+Cikotic Ante	4577	2
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	3
+Cogelja Tomislav	4382	4
+Uvod u racunala i programiranje;	5
+Elektronika;	4
+Matematika 2;	3
+Engleski jezik 2;	5
+Covic Iva	8286	1
+Fizika 1;	4
+Culin Mihovil	5451	8
+Elektrotehnika;	2
+Fizika 1;	5
+Matematika 1;	4
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	4
+Elektronika;	5
+Fizika 2;	3
+Programiranje;	5
+Culina Jelena	8464	7
+Elektrotehnika;	2
+Matematika 1;	3
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	2
+Elektronika;	5
+Fizika 2;	3
+Engleski jezik 2;	4
+Curkov Ante	2731	5
+Fizika 1;	3
+Matematika 1;	4
+Uvod u racunala i programiranje;	3
+Elektronika;	4
+Engleski jezik 2;	4
+Cosic Mate	6586	10
+Elektrotehnika;	2
+Fizika 1;	2
+Matematika 1;	4
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	4
+Elektronika;	3
+Fizika 2;	5
+Matematika 2;	4
+Programiranje;	2
+Engleski jezik 2;	4
+Curkovic Sandra	2759	5
+Fizika 1;	4
+Fizika 2;	4
+Matematika 2;	4
+Programiranje;	3
+Engleski jezik 2;	4
+Dajak Stipe	5456	2
+Fizika 2;	4
+Engleski jezik 2;	3
+Dedic Marija	3283	9
+Elektrotehnika;	3
+Fizika 1;	4
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	2
+Elektronika;	3
+Fizika 2;	4
+Matematika 2;	5
+Programiranje;	4
+Engleski jezik 2;	4
+Delic Matej	6126	3
+Fizika 1;	3
+Matematika 1;	4
+Fizika 2;	2
+Devic Pavle	7913	4
+Fizika 1;	2
+Engleski jezik 1;	3
+Matematika 2;	2
+Programiranje;	2
+Dolic Danijela	2610	10
+Elektrotehnika;	3
+Fizika 1;	4
+Matematika 1;	5
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	4
+Elektronika;	3
+Fizika 2;	4
+Matematika 2;	2
+Programiranje;	3
+Engleski jezik 2;	4
+Dragicevic Ivan	1823	4
+Elektrotehnika;	2
+Uvod u racunala i programiranje;	2
+Elektronika;	5
+Matematika 2;	5
+Drazic Ante	5947	5
+Matematika 1;	5
+Uvod u racunala i programiranje;	2
+Fizika 2;	5
+Matematika 2;	2
+Engleski jezik 2;	4
+Dujmovic Josip	9898	5
+Matematika 1;	5
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	5
+Matematika 2;	4
+Engleski jezik 2;	3
+Dumanic Antonia	7322	8
+Elektrotehnika;	3
+Matematika 1;	3
+Uvod u racunala i programiranje;	4
+Elektronika;	3
+Fizika 2;	5
+Matematika 2;	3
+Programiranje;	5
+Engleski jezik 2;	2
+Dumanic Roko	2298	9
+Elektrotehnika;	5
+Fizika 1;	4
+Matematika 1;	4
+Engleski jezik 1;	3
+Elektronika;	5
+Fizika 2;	3
+Matematika 2;	4
+Programiranje;	4
+Engleski jezik 2;	3
+Dundic Dario	6365	8
+Elektrotehnika;	5
+Fizika 1;	4
+Matematika 1;	5
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	3
+Fizika 2;	2
+Matematika 2;	3
+Programiranje;	3
+Duran Roko	3018	8
+Elektrotehnika;	5
+Fizika 1;	2
+Matematika 1;	5
+Uvod u racunala i programiranje;	5
+Elektronika;	2
+Fizika 2;	4
+Programiranje;	2
+Engleski jezik 2;	5
+Emer Tino	8766	8
+Elektrotehnika;	4
+Fizika 1;	2
+Matematika 1;	4
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	5
+Fizika 2;	5
+Matematika 2;	3
+Programiranje;	4
+Gaurina Kristijan	8443	10
+Elektrotehnika;	3
+Fizika 1;	5
+Matematika 1;	3
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	2
+Elektronika;	4
+Fizika 2;	3
+Matematika 2;	5
+Programiranje;	2
+Engleski jezik 2;	3
+Golubic Gabrijel	2491	4
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	5
+Elektronika;	2
+Fizika 2;	5
+Grgatovic Marin	9188	3
+Elektrotehnika;	4
+Uvod u racunala i programiranje;	4
+Matematika 2;	3
+Gudic Mia	8369	2
+Fizika 2;	5
+Programiranje;	2
+Hrskanovic Ivan	8688	8
+Elektrotehnika;	4
+Fizika 1;	3
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	2
+Elektronika;	5
+Fizika 2;	3
+Programiranje;	3
+Engleski jezik 2;	3
+Hrzic Stipan	9019	1
+Uvod u racunala i programiranje;	2
+Ivic Marija	5135	8
+Elektrotehnika;	5
+Fizika 1;	4
+Matematika 1;	4
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	4
+Elektronika;	2
+Fizika 2;	2
+Matematika 2;	4
+Jagmic Marin	8741	6
+Elektrotehnika;	3
+Engleski jezik 1;	4
+Elektronika;	4
+Fizika 2;	3
+Programiranje;	5
+Engleski jezik 2;	4
+Jalic Andrea	2065	5
+Elektrotehnika;	2
+Fizika 1;	3
+Engleski jezik 1;	2
+Matematika 2;	4
+Engleski jezik 2;	4
+Jazo Sandro	2247	8
+Fizika 1;	2
+Matematika 1;	2
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	3
+Elektronika;	5
+Fizika 2;	2
+Programiranje;	4
+Engleski jezik 2;	5
+Jercic Borna	9671	5
+Matematika 1;	5
+Elektronika;	3
+Fizika 2;	3
+Matematika 2;	3
+Engleski jezik 2;	3
+Jerkovic Antonio	5447	6
+Fizika 1;	4
+Matematika 1;	4
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	4
+Elektronika;	3
+Fizika 2;	2
+Jonjic Ante	6885	3
+Elektrotehnika;	5
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	2
+Jukic Sara	2474	3
+Elektrotehnika;	3
+Programiranje;	4
+Engleski jezik 2;	3
+Juric Iva	1263	7
+Elektrotehnika;	5
+Matematika 1;	5
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	5
+Elektronika;	3
+Fizika 2;	3
+Engleski jezik 2;	3
+Jurkovic Lucia	5969	5
+Elektrotehnika;	3
+Matematika 1;	2
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	3
+Fizika 2;	4
+Kalebic Matej	5412	1
+Matematika 1;	4
+Kamenjarin Antonia	3022	9
+Elektrotehnika;	3
+Fizika 1;	3
+Matematika 1;	3
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	4
+Elektronika;	3
+Matematika 2;	2
+Programiranje;	2
+Engleski jezik 2;	5
+Katic Dora	7777	9
+Elektrotehnika;	3
+Fizika 1;	4
+Matematika 1;	4
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	5
+Fizika 2;	5
+Matematika 2;	4
+Programiranje;	3
+Engleski jezik 2;	2
+Knaus Ivona	7695	7
+Fizika 1;	2
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	4
+Elektronika;	5
+Fizika 2;	2
+Matematika 2;	4
+Engleski jezik 2;	4
+Knezovic Karla	5500	5
+Elektrotehnika;	2
+Engleski jezik 1;	3
+Elektronika;	5
+Fizika 2;	2
+Matematika 2;	5
+Kolobaric Josip	5690	8
+Fizika 1;	4
+Matematika 1;	5
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	3
+Fizika 2;	3
+Matematika 2;	4
+Programiranje;	5
+Engleski jezik 2;	5
+Kondenar Ervin	9305	5
+Fizika 1;	4
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	2
+Elektronika;	2
+Fizika 2;	2
+Kondza Lovre	6323	9
+Elektrotehnika;	3
+Fizika 1;	5
+Matematika 1;	5
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	5
+Elektronika;	5
+Fizika 2;	3
+Matematika 2;	5
+Programiranje;	2
+Koscal Karlo	1638	9
+Elektrotehnika;	2
+Fizika 1;	3
+Matematika 1;	2
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	4
+Fizika 2;	3
+Matematika 2;	3
+Programiranje;	2
+Engleski jezik 2;	2
+Kovacevic-Vranjican Marin	6555	1
+Engleski jezik 2;	2
+Kristicevic Antonio	9998	10
+Elektrotehnika;	3
+Fizika 1;	5
+Matematika 1;	5
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	4
+Elektronika;	4
+Fizika 2;	3
+Matematika 2;	5
+Programiranje;	3
+Engleski jezik 2;	5
+Krizanovic Frane	9288	1
+Elektrotehnika;	5
+Krolo Bruno	2921	4
+Matematika 1;	4
+Uvod u racunala i programiranje;	2
+Matematika 2;	4
+Programiranje;	2
+Kutlesa Toni	3016	2
+Fizika 1;	4
+Elektronika;	3
+Labetic Petar	8054	7
+Elektrotehnika;	3
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	3
+Elektronika;	3
+Fizika 2;	4
+Matematika 2;	5
+Engleski jezik 2;	3
+Labrovic Ivan	7716	3
+Elektrotehnika;	2
+Fizika 1;	2
+Elektronika;	2
+Lapenda Tonci	1860	1
+Engleski jezik 1;	4
+Lasic Vlade	4594	4
+Elektrotehnika;	5
+Fizika 1;	4
+Engleski jezik 1;	4
+Elektronika;	3
+Lerotic Viktor	3438	6
+Elektrotehnika;	3
+Fizika 1;	5
+Engleski jezik 1;	5
+Elektronika;	2
+Matematika 2;	5
+Programiranje;	5
+Lerotic Viktorija	9548	5
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	4
+Matematika 2;	4
+Programiranje;	4
+Engleski jezik 2;	3
+Lovric Ante	9965	9
+Elektrotehnika;	4
+Fizika 1;	4
+Matematika 1;	4
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	2
+Elektronika;	5
+Matematika 2;	2
+Programiranje;	2
+Engleski jezik 2;	2
+Lovric Meri	4925	4
+Elektrotehnika;	3
+Matematika 1;	4
+Uvod u racunala i programiranje;	5
+Elektronika;	5
+Luketin Luka	5642	1
+Uvod u racunala i programiranje;	3
+Machiedo Dani	2030	2
+Matematika 1;	2
+Engleski jezik 1;	3
+Maravic Karla	3524	3
+Fizika 1;	2
+Uvod u racunala i programiranje;	4
+Programiranje;	5
+Marcic Jerolim	2665	9
+Elektrotehnika;	3
+Fizika 1;	4
+Matematika 1;	5
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	5
+Elektronika;	4
+Matematika 2;	2
+Programiranje;	5
+Engleski jezik 2;	2
+Marin Ivan	3829	6
+Elektrotehnika;	5
+Fizika 1;	4
+Matematika 1;	3
+Engleski jezik 1;	4
+Fizika 2;	3
+Matematika 2;	3
+Maslov Marin	6761	6
+Elektrotehnika;	4
+Uvod u racunala i programiranje;	5
+Elektronika;	5
+Matematika 2;	2
+Programiranje;	3
+Engleski jezik 2;	4
+Mijaljevic Karlo	4139	2
+Matematika 2;	2
+Engleski jezik 2;	3
+Miletic Dino	4092	4
+Fizika 1;	5
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	3
+Engleski jezik 2;	2
+Milin Roko	2730	5
+Elektrotehnika;	2
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	4
+Elektronika;	2
+Programiranje;	2
+Mladenic Lea	8551	8
+Matematika 1;	4
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	2
+Elektronika;	3
+Fizika 2;	2
+Matematika 2;	4
+Programiranje;	5
+Engleski jezik 2;	5
+Mladinic Lara	3467	1
+Uvod u racunala i programiranje;	4
+Novak Nikola	9507	7
+Elektrotehnika;	4
+Fizika 1;	2
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	3
+Elektronika;	4
+Programiranje;	3
+Engleski jezik 2;	3
+Olujic Petar	6247	3
+Elektrotehnika;	5
+Elektronika;	3
+Engleski jezik 2;	4
+Orlic Nikolina	7967	9
+Elektrotehnika;	2
+Fizika 1;	2
+Matematika 1;	5
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	4
+Fizika 2;	2
+Matematika 2;	5
+Programiranje;	5
+Engleski jezik 2;	5
+Perkusic Toni	2550	9
+Elektrotehnika;	2
+Fizika 1;	5
+Matematika 1;	5
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	2
+Elektronika;	3
+Fizika 2;	2
+Matematika 2;	5
+Engleski jezik 2;	2
+Popovic Mirela	2904	6
+Elektrotehnika;	2
+Matematika 1;	2
+Uvod u racunala i programiranje;	4
+Matematika 2;	2
+Programiranje;	3
+Engleski jezik 2;	2
+Predovan Ive	4291	5
+Elektrotehnika;	4
+Matematika 1;	5
+Uvod u racunala i programiranje;	5
+Matematika 2;	4
+Engleski jezik 2;	5
+Prpa Sandro	9540	4
+Fizika 1;	5
+Elektronika;	3
+Fizika 2;	2
+Matematika 2;	5
+Puljiz Mia	5812	8
+Elektrotehnika;	4
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	2
+Elektronika;	5
+Fizika 2;	2
+Matematika 2;	3
+Programiranje;	4
+Engleski jezik 2;	5
+Radeljic Ante	4289	9
+Elektrotehnika;	3
+Fizika 1;	2
+Matematika 1;	4
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	3
+Elektronika;	2
+Fizika 2;	2
+Programiranje;	5
+Engleski jezik 2;	4
+Radic Karla	8828	7
+Elektrotehnika;	3
+Fizika 1;	2
+Matematika 1;	4
+Uvod u racunala i programiranje;	3
+Elektronika;	2
+Fizika 2;	3
+Programiranje;	5
+Roso Petra	5085	10
+Elektrotehnika;	3
+Fizika 1;	3
+Matematika 1;	2
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	4
+Elektronika;	2
+Fizika 2;	3
+Matematika 2;	3
+Programiranje;	3
+Engleski jezik 2;	3
+Sabolic Damir	3657	7
+Elektrotehnika;	3
+Matematika 1;	2
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	2
+Elektronika;	2
+Fizika 2;	5
+Programiranje;	2
+Sekelez Domagoj	4234	1
+Programiranje;	4
+Slamic Nikola	9153	9
+Elektrotehnika;	4
+Fizika 1;	3
+Matematika 1;	5
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	5
+Elektronika;	5
+Matematika 2;	5
+Programiranje;	4
+Engleski jezik 2;	5
+Smoljan Tin	4517	10
+Elektrotehnika;	3
+Fizika 1;	5
+Matematika 1;	4
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	2
+Elektronika;	2
+Fizika 2;	5
+Matematika 2;	2
+Programiranje;	4
+Engleski jezik 2;	4
+Soric Ante	5180	6
+Elektrotehnika;	4
+Elektronika;	2
+Fizika 2;	2
+Matematika 2;	2
+Programiranje;	5
+Engleski jezik 2;	5
+Suton Anita	2591	10
+Elektrotehnika;	5
+Fizika 1;	4
+Matematika 1;	2
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	4
+Elektronika;	4
+Fizika 2;	2
+Matematika 2;	5
+Programiranje;	2
+Engleski jezik 2;	2
+Sabic Marino	1418	2
+Elektrotehnika;	2
+Engleski jezik 1;	2
+Serkinic Mate	5145	2
+Engleski jezik 1;	2
+Elektronika;	3
+Tomasevic Jure	6516	7
+Elektrotehnika;	3
+Fizika 1;	5
+Matematika 1;	5
+Engleski jezik 1;	3
+Elektronika;	4
+Matematika 2;	3
+Programiranje;	4
+Tomic Ivan	6060	8
+Elektrotehnika;	4
+Matematika 1;	5
+Uvod u racunala i programiranje;	5
+Engleski jezik 1;	2
+Elektronika;	2
+Fizika 2;	3
+Programiranje;	4
+Engleski jezik 2;	5
+Tosic Ivan	6175	6
+Elektrotehnika;	4
+Fizika 1;	4
+Engleski jezik 1;	4
+Matematika 2;	2
+Programiranje;	4
+Engleski jezik 2;	5
+Tudor Teo	6392	2
+Uvod u racunala i programiranje;	5
+Fizika 2;	4
+Turic Ante	7725	8
+Elektrotehnika;	2
+Matematika 1;	4
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	5
+Elektronika;	4
+Fizika 2;	2
+Matematika 2;	2
+Engleski jezik 2;	5
+Ujdur Petra	9004	4
+Elektrotehnika;	3
+Fizika 1;	3
+Elektronika;	3
+Fizika 2;	5
+Ujevic Igor	3154	6
+Elektrotehnika;	2
+Fizika 1;	3
+Matematika 1;	3
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	3
+Programiranje;	3
+Vekic Mario	8216	1
+Elektrotehnika;	3
+Vidovic Duje	3096	5
+Elektrotehnika;	3
+Matematika 1;	2
+Engleski jezik 1;	3
+Elektronika;	5
+Engleski jezik 2;	3
+Vrcan Ante-Dujo	4884	3
+Uvod u racunala i programiranje;	5
+Fizika 2;	5
+Matematika 2;	3
+Vrcic Rita	6767	3
+Elektrotehnika;	2
+Fizika 2;	3
+Programiranje;	3
+Vrdoljak Josip	2915	8
+Elektrotehnika;	3
+Matematika 1;	5
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	4
+Elektronika;	3
+Fizika 2;	5
+Programiranje;	2
+Engleski jezik 2;	3
+Vuco Marija	1744	7
+Fizika 1;	5
+Matematika 1;	2
+Elektronika;	3
+Fizika 2;	5
+Matematika 2;	5
+Programiranje;	4
+Engleski jezik 2;	2
+Vucica Josip	9366	6
+Fizika 1;	5
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	5
+Elektronika;	2
+Matematika 2;	3
+Programiranje;	4
+Vujasin Ela	9883	9
+Elektrotehnika;	4
+Matematika 1;	5
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	5
+Elektronika;	5
+Fizika 2;	3
+Matematika 2;	4
+Programiranje;	5
+Engleski jezik 2;	4
+Vujevic Petra	3294	5
+Uvod u racunala i programiranje;	3
+Engleski jezik 1;	5
+Elektronika;	2
+Matematika 2;	5
+Programiranje;	2
+Vujovic Tristan	8623	5
+Matematika 1;	3
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	5
+Elektronika;	2
+Fizika 2;	4
+Vukovic Anica	1526	7
+Elektrotehnika;	2
+Fizika 1;	5
+Matematika 1;	3
+Engleski jezik 1;	2
+Elektronika;	5
+Fizika 2;	2
+Matematika 2;	2
+Vuletic Jelena	2834	5
+Elektrotehnika;	4
+Uvod u racunala i programiranje;	2
+Fizika 2;	3
+Matematika 2;	3
+Engleski jezik 2;	3
+Vulic Karmen	4435	10
+Elektrotehnika;	5
+Fizika 1;	3
+Matematika 1;	5
+Uvod u racunala i programiranje;	2
+Engleski jezik 1;	3
+Elektronika;	4
+Fizika 2;	3
+Matematika 2;	2
+Programiranje;	3
+Engleski jezik 2;	2
+Zdrilic Andelo	2167	3
+Uvod u racunala i programiranje;	3
+Elektronika;	4
+Fizika 2;	2
+Znaor Josipa	8014	7
+Elektrotehnika;	4
+Fizika 1;	4
+Elektronika;	3
+Fizika 2;	4
+Matematika 2;	5
+Programiranje;	5
+Engleski jezik 2;	5
+Zubcic Donat	5872	6
+Elektrotehnika;	3
+Fizika 1;	3
+Matematika 1;	4
+Elektronika;	2
+Fizika 2;	3
+Engleski jezik 2;	5
+Zubcic Mate	4824	6
+Elektrotehnika;	2
+Fizika 1;	5
+Matematika 1;	5
+Uvod u racunala i programiranje;	3
+Fizika 2;	5
+Engleski jezik 2;	5
+Zidic Dinko	8600	1
+Elektronika;	3
+Zitko Nikola	5025	5
+Elektrotehnika;	3
+Engleski jezik 1;	3
+Matematika 2;	4
+Programiranje;	2
+Engleski jezik 2;	5
+Zunabovic Ivan	3780	10
+Elektrotehnika;	2
+Fizika 1;	5
+Matematika 1;	3
+Uvod u racunala i programiranje;	4
+Engleski jezik 1;	3
+Elektronika;	4
+Fizika 2;	2
+Matematika 2;	5
+Programiranje;	2
+Engleski jezik 2;	2
