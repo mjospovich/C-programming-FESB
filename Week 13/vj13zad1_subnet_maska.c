@@ -55,3 +55,17 @@ int main()
   system("pause");
   return 0;
 }
+
+
+/*
+Napisati program koji ce:
+a)prikazati uneseni cijeli broj u obliku niza bitova. Prikazane rezultate objediniti u skupine
+po cetiri binarne znamenke,
+b)uneseni decimalni broj (tipa float) prikazati u obliku niza bitova. Prikazane rezultate
+objediniti u grupe prema IEEE 754 standardu (MSB, eksponent, mantisa),
+c)uneseni decimalni broj (tipa double) prikazati u obliku niza bitova. Prikazane rezultate
+objediniti u grupe prema IEEE 754 standardu (MSB, eksponent, mantisa).
+U programu je potrebno omoguciti prikaz binarnog broja u “little-endian" ili “big-endian"
+zapisu.
+
+*/
