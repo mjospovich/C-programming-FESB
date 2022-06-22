@@ -5,7 +5,7 @@
 typedef struct{
 
     char korisnik[50];
-	char adresa[30];
+    char adresa[30];
     char broj[15];
 
 } osoba;
@@ -50,18 +50,17 @@ void ispis(osoba* lik, int N){
 
 	fprintf(output, "KORISNIK\t\tADRESA\t\tTEL.BROJ\n");
 
-//dio za dio b koi ne radi
-/*
+	//sljedi sortiranje po abecedi
 	for(i=0;i<N-1;i++){
 		for(j=i+1;j<N;j++){
-			if(strcmp(lik[i].korisnik, lik[j].korisnik)<0){
+			if(strcmp(lik[i].korisnik, lik[j].korisnik)>0){
 				temp=lik[i];
 				lik[i]=lik[j];
 				lik[j]=temp;
 			}
 		}
 	}
-*/
+
 	for(i=0;i<N;i++){
 		fprintf(output ,"%s\t\t%s\t\t%s\n", lik[i].korisnik, lik[i].adresa, lik[i].broj);
 	}
