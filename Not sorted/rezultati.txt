@@ -1,0 +1,5 @@
+Ime kluba    GF GA
+Cibalija     21 10
+Istra        18 16
+Karlovac     25 12
+Zadar        19 9
