@@ -1,0 +1,9 @@
+IME       PREZIME       VRIJEME
+Mateo     Jakic         1 04 21
+Karlo     Lukac         0 58 44
+Dora      Saric         1 11 42
+Ivan      Karan         0 59 55
+Mate      Katic         1 14 21
+Kike      Marinic       1 08 41
+Dorotea   Maric         1 00 47
+Ivano     Pernar        0 53 51
