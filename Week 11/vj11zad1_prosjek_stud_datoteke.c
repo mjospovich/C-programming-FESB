@@ -18,7 +18,7 @@ int main()
 {
 
     _student *stud;
-    int br_stud;
+    int br_stud = 0;
     int i, j;
     char tmp[MAX];
 
@@ -40,7 +40,7 @@ int main()
     }
     rewind(input);
 
-    stud = malloc(br_stud * sizeof(_student));
+    stud = (_student*)malloc(br_stud * sizeof(_student));
 
     for (j = 0; j < br_stud; j++)
     {
